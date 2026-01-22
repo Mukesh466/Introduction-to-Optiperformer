@@ -13,7 +13,7 @@ The system is *instrumented* with:
 
 ---
 
-## Instructions
+## Procedure
 
 1. Download and install OptiPerformer from the [optiwave.com](https://optiwave.com) website.
 2. Copy the `Introduction_OptiPerformer.osp` file to your PC.
