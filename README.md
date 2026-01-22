@@ -38,9 +38,4 @@ The system is *instrumented* with:
 
 ---
 
-## Report
 
-1. Cover sheet per the attached example.  
-2. Tabulation of received power, Q factor, and BER for the 5 different fiber lengths.  
-3. Plot of received power, Q factor, and BER versus fiber length.  
-4. Description of the change in the eye diagram with increasing fiber length.
