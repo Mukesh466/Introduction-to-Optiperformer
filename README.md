@@ -35,7 +35,22 @@ The system is *instrumented* with:
    - The index is displayed in the upper right corner of the layout.  
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
+  
+REPORT :
 
+<img width="671" height="374" alt="image" src="https://github.com/user-attachments/assets/9172c396-f00d-4218-a9fc-147963c8c739" />
+
+TABLE :
+![WhatsApp Image 2026-01-24 at 1 52 29 PM](https://github.com/user-attachments/assets/6a8a8ec1-446e-421f-9888-ca4ae2a5e2f8)
+
+DESCRIPTION :
+OptiPerformer is used to simulate a basic fiber optic communication system. The system includes a
+transmitter, optical fiber channel, and receiver. An optical power meter and BER analyzer are used for
+performance analysis. The simulation is run for five iterations with fiber length from 50 km to 150 km.
+Received power, eye diagram, Q-factor, and BER are observed for each iteration.
+
+RESULT :
+The sample file is sucessfully run and verified output 
 ---
 
 
